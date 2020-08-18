@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642065675595",
+    "firebase_url": "https://fir-loginup-e8dec.firebaseio.com",
+    "project_id": "fir-loginup-e8dec",
+    "storage_bucket": "fir-loginup-e8dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642065675595:android:0088a2b00541d9537664ce",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login_with_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642065675595-ko3jtl7t9k27qfg4t3cc9c8pni01be54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsP_lf4Vsip_EJP3DyJPif7-GMBcKCZrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642065675595-ko3jtl7t9k27qfg4t3cc9c8pni01be54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
